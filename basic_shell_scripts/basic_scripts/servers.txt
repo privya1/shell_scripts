@@ -1,0 +1,12 @@
+google.com
+localhost
+facebook.com
+sonnet.ca
+qt.com
+youtube.com
+195.16.16.0
+172.16.0.4
+188.16.17.24
+192.168.1.1
+example.com
+10.0.0.5
